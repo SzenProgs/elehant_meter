@@ -1,0 +1,12 @@
+{
+    "domain": "elehant_meter",
+    "name": "Elehant Meter",
+    "documentation": "https://github.com/SzenProgs/elehant_meter",
+    "issue_tracker": "https://github.com/SzenProgs/elehant_meter/issues",
+    "dependencies": [],
+    "codeowners": ["@SzenProgs"],
+    "requirements": ["aioblescan>=0.2.6"],
+    "iot_class": "local_polling",
+    "config_flow": true,
+    "version": "0.1.0"
+}
